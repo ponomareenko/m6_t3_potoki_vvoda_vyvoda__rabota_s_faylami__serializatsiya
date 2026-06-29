@@ -1,0 +1,12 @@
+Каталог src создан в Games/src
+Каталог res создан в Games/res
+Каталог savegames создан в Games/savegames
+Каталог temp создан в Games/temp
+Подкаталог main создан в Games/src/main
+Подкаталог test создан в Games/src/test
+Файл Main.java создан в Games/src/main/Main.java
+Файл Utils.java создан в Games/src/main/Utils.java
+Подкаталог drawables создан в Games/res/drawables
+Подкаталог vectors создан в Games/res/vectors
+Подкаталог icons создан в Games/res/icons
+Файл temp.txt создан в Games/temp/temp.txt
