@@ -9,7 +9,6 @@ public class Main {
 
     static void main(String[] args) {
         StringBuilder log = new StringBuilder();
-        String fullPath = "C:/Users/d.ponomarenko/work/napravleniya_raboty/my_personal_dannue/java/m4_t3_potoki_vvoda_vyvoda__rabota_s_faylami__serializatsiya/ver3/m6_t3_potoki_vvoda_vyvoda__rabota_s_faylami__serializatsiya/m6_t3_zadacha_1__ustanovka";
 
         List<String> directories = new ArrayList<>(List.of(
                 "/Games/src",
